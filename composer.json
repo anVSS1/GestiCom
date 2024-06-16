@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bacon/bacon-qr-code": "^2.0",
+        "picqer/php-barcode-generator": "^2.2"
+    }
+}
